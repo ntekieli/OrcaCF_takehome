@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+pandas
+spacy
+en_core_web_sm
+scikit-learn
